@@ -7,10 +7,8 @@ Bersama SakaWarga, Anda dapat membantu mengumpulkan dana donasi yang dapat memba
 
 **RENCANA PENGEMBANGAN**
 Donasi Anda akan membantu:
-* memberikan makanan, air, dan tempat tinggal bagi mereka yang kurang beruntung.
+* memngumpulkan dana untuk suply makanan dan minuman.
 * Mempermudah akses pendidikan dan layanan kesehatan.
-* Melindungi lingkungan dan memerangi perubahan iklim.
-* Mendukung komunitas lokal dan meningkatkan kehidupan orang-orang.
 
 **Bergabunglah dengan SakaWarga dan bantu sesama!**
 **Terima kasih atas dukungan Anda!**
