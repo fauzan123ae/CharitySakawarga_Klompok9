@@ -1,5 +1,5 @@
 # Charity SAKAWARGA
-> **Bantu Ubah Dunia, dengan SakaWarga Charity Kami!**
+> **Sakawarga, Kekuatan Kecil untuk Perubahan Besar!**
 
 **"Kepedulian kecil Anda, menyentuh hati dan memberi harapan bagi sesama."** 
 
