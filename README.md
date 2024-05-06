@@ -19,9 +19,11 @@ Donasi Anda akan membantu:
 
 ## featur
 Sprint 1
-* ....
-* 
-* 
+* menyediakan wadah untuk donasi
+* menampilkan informasi layanan
+* menampilkan informasi kontak
+* menerima kritik dan saran pada kolom kontak
+
 Sprint 2
 * ......
 
